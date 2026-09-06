@@ -1,4 +1,4 @@
-# OS-Jackfruit
+# Isolated Runtime Supervisor
 
 Lightweight multi-container runtime in C with a long-running supervisor, bounded-buffer log pipeline, and kernel-space soft/hard memory enforcement.
 
